@@ -9,7 +9,7 @@
     <script src='main.js'></script>
 </head>
 <body>
-    <form action="tabuada.php" method="get">
+    <form action="lacoderepeticao.php" method="get">
         <h1>Tabuada</h1>
         <br><label for="number">Escolha um número de 1 a 10</label><br>
         <input type="number" name="number" min="1" max="10">
